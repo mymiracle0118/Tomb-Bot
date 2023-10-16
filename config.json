@@ -1,0 +1,17 @@
+{
+    "networkId": 250,
+    "networkRPC": "https://rpcapi.fantom.network",
+    "networkName": "fantom",
+    "TShareRewardPoolAddress": "0xcc0a87F7e7c693042a9Cc703661F5060c80ACb43",
+    "spookyRouterAddress": "0xf491e7b69e4244ad4002bc14e878a34207e38c29",
+    "spookyFactoryAddress": "0x152ee697f2e276fa89e96742e9bb9ab1f2e61be3",
+    "tombTokenAddress": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+    "tshareTokenAddress": "0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37",
+    "wFTMAddress": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+    "FTMTOMBPair": "0x2A651563C9d3Af67aE0388a5c8F89b867038089e",
+    "privateKey": "",
+    "userAddress": "",
+    "harvestThreshold": 0.125,
+    "liquidityThreshold": 0.1,
+    "slipTolerance": "300"
+}
